@@ -20,3 +20,99 @@ in the first category.
 - [jpn--/larch](https://www.github.com/jpn--/larch) (5 stars)  
   Larch: a Python tool for choice modeling
 - [ZephyrTransport/zephyr-stars](https://www.github.com/ZephyrTransport/zephyr-stars) (5 stars)  
+  A website that tabulates GitHub stars given by transportation modeling professionals affiliated with the Zephyr Foundation.
+- [ActivitySim/populationsim](https://www.github.com/ActivitySim/populationsim) (4 stars)  
+  An Open Platform for Population Synthesis
+- [AequilibraE/aequilibrae](https://www.github.com/AequilibraE/aequilibrae) (4 stars)  
+  aequilibrae - Python package for transportation modeling
+- [jpn--/python-for-transportation-modeling](https://www.github.com/jpn--/python-for-transportation-modeling) (4 stars)  
+  How to use Python for a variety of transportation modeling tasks
+- [matsim-org/matsim-libs](https://www.github.com/matsim-org/matsim-libs) (4 stars)  
+  Multi-Agent Transport Simulation
+- [tmip-emat/tmip-emat](https://www.github.com/tmip-emat/tmip-emat) (4 stars)  
+  Exploratory Modeling and Analysis Tool
+- [zephyr-data-specs/GMNS](https://www.github.com/zephyr-data-specs/GMNS) (4 stars)  
+  General Modeling Network Specification
+- [AEP50/chandra-bot](https://www.github.com/AEP50/chandra-bot) (3 stars)  
+  Software to bring data intelligence to the TRB Annual Meeting Paper Review Process
+- [arteagac/xlogit](https://www.github.com/arteagac/xlogit) (3 stars)  
+  A Python package for GPU-accelerated estimation of mixed logit models. 
+- [gboeing/osmnx](https://www.github.com/gboeing/osmnx) (3 stars)  
+  OSMnx is a Python package to easily download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
+- [UDST/choicemodels](https://www.github.com/UDST/choicemodels) (3 stars)  
+  Python library for discrete choice modeling
+- [VisionEval/VisionEval](https://www.github.com/VisionEval/VisionEval) (3 stars)  
+  Public release version of the VisionEval framework
+- [ageron/handson-ml](https://www.github.com/ageron/handson-ml) (2 stars)  
+  ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
+- [asu-trans-ai-lab/DTALite-Classic-Edition](https://www.github.com/asu-trans-ai-lab/DTALite-Classic-Edition) (2 stars)  
+  DTALite-Classic-Edition (before adopting GMNS standard QVDF functions in 2020)
+- [BayAreaMetro/travel-model-one](https://www.github.com/BayAreaMetro/travel-model-one) (2 stars)  
+  Travel Model One and Travel Model 1.5
+- [BayAreaMetro/travel-modeling-as-science](https://www.github.com/BayAreaMetro/travel-modeling-as-science) (2 stars)  
+  A collaborative, evolving, proposal to improve travel modeling research and practice
+- [bstabler/TransportationNetworks](https://www.github.com/bstabler/TransportationNetworks) (2 stars)  
+  Transportation Networks for Research
+- [dalmia/Deep-Learning-Book-Chapter-Summaries](https://www.github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) (2 stars)  
+  Attempting to make the Deep Learning Book easier to understand.
+- [e-lo/forecastcards](https://www.github.com/e-lo/forecastcards) (2 stars)  
+  Data specification for travel forecasting cards in order to assess performance of travel forecasts 
+- [EntaiWang99/Traffic-Assignment-with-Recursive-Logit-Model](https://www.github.com/EntaiWang99/Traffic-Assignment-with-Recursive-Logit-Model) (2 stars)  
+- [Fast-Trips/fast-trips](https://www.github.com/Fast-Trips/fast-trips) (2 stars)  
+  Dynamic transit assignment tool
+- [gregmacfarlane/ctpp_flows](https://www.github.com/gregmacfarlane/ctpp_flows) (2 stars)  
+  CTPP Tract-based work flow data
+- [gregmacfarlane/omxr](https://www.github.com/gregmacfarlane/omxr) (2 stars)  
+  Open Matrix API for R
+- [ipeaGIT/r5r](https://www.github.com/ipeaGIT/r5r) (2 stars)  
+- [joshchea/python-tdm](https://www.github.com/joshchea/python-tdm) (2 stars)  
+  Python modules for typical travel demand modeling calculations 
+- [jpn--/arrowmatrix](https://www.github.com/jpn--/arrowmatrix) (2 stars)  
+  A matrix file format
+- [mattflor/chorddiag](https://www.github.com/mattflor/chorddiag) (2 stars)  
+  R interface to D3 chord diagrams
+- [Metropolitan-Council/metc-asim-model](https://www.github.com/Metropolitan-Council/metc-asim-model) (2 stars)  
+- [metrotransit/route-trends](https://www.github.com/metrotransit/route-trends) (2 stars)  
+  RShiny app to upload and analyze trend and seasonality of transit ridership data
+- [michelbierlaire/biogeme](https://www.github.com/michelbierlaire/biogeme) (2 stars)  
+  Biogeme is an open source freeware designed for the maximum likelihood estimation of parametric models in general, with a special emphasis on discrete choice models. 
+- [osPlanning/omx](https://www.github.com/osPlanning/omx) (2 stars)  
+  Open Matrix (OMX)
+- [pedrocamargo/map_matching](https://www.github.com/pedrocamargo/map_matching) (2 stars)  
+  Map matching
+- [RSGInc/DaySim](https://www.github.com/RSGInc/DaySim) (2 stars)  
+  DaySim Activity-Based Model
+- [sullivannicole/StreetLight-API](https://www.github.com/sullivannicole/StreetLight-API) (2 stars)  
+  Making API calls to the StreetLight data platform using the R language
+- [Triangle-Modeling-and-Analytics/TRMG2](https://www.github.com/Triangle-Modeling-and-Analytics/TRMG2) (2 stars)  
+  The second generation of the Triangle Regional Model
+- [walkerke/tidycensus](https://www.github.com/walkerke/tidycensus) (2 stars)  
+  Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
+- [wsp-sag/network_wrangler](https://www.github.com/wsp-sag/network_wrangler) (2 stars)  
+  A Python Library for Managing Travel Model Network Scenarios
+- [wsp-sag/tcadr](https://www.github.com/wsp-sag/tcadr) (2 stars)  
+  A library to read/write TransCAD binary files in R.
+- [ZephyrTransport/travel-diary-survey-tools](https://www.github.com/ZephyrTransport/travel-diary-survey-tools) (2 stars)  
+  For collaborating on Travel Diary Survey Tools
+
+
+## Zephyr Users
+
+The list of starred projects is based on these GitHub users.
+
+- [Andrew Rohne (AndrewTheTM)](https://www.github.com/AndrewTheTM)
+- [David Ory (DavidOry)](https://www.github.com/DavidOry)
+- [Suzanne Childress (Ennazus)](https://www.github.com/Ennazus)
+- [Jonathan Ehrlich (JonathanEhrlichMC)](https://www.github.com/JonathanEhrlichMC)
+- [Vince Bernardin (VinceBernardin)](https://www.github.com/VinceBernardin)
+- [Xuesong (Simon) Zhou (asu-trans-ai-lab)](https://www.github.com/asu-trans-ai-lab)
+- [Alex Bettinardi (bettinardi)](https://www.github.com/bettinardi)
+- [Bhargava Sana (bhargavasana)](https://www.github.com/bhargavasana)
+- [Billy Charlton (billyc)](https://www.github.com/billyc)
+- [Brian Gardner (brigar)](https://www.github.com/brigar)
+- [Ben Stabler (bstabler)](https://www.github.com/bstabler)
+- [Charles Gorugantula (cgkcmo)](https://www.github.com/cgkcmo)
+- [Clint Daniels (danielsclint)](https://www.github.com/danielsclint)
+- [Dan Flynn (dflynn-volpe)](https://www.github.com/dflynn-volpe)
+- [Kyle Ward (dkyleward)](https://www.github.com/dkyleward)
+- [Elizabeth Sall (e-lo)](https://www.github.com/e-lo)
