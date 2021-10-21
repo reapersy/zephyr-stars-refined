@@ -16,4 +16,7 @@ steps:
 - checkout: self
   persistCredentials: true
 
-- s
+- script: git checkout master
+  displayName: 'Checkout Branch'
+
+- task: UsePythonVersion@0
