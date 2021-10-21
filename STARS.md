@@ -116,3 +116,50 @@ The list of starred projects is based on these GitHub users.
 - [Dan Flynn (dflynn-volpe)](https://www.github.com/dflynn-volpe)
 - [Kyle Ward (dkyleward)](https://www.github.com/dkyleward)
 - [Elizabeth Sall (e-lo)](https://www.github.com/e-lo)
+- [Gregory Erhardt (gregerhardt)](https://www.github.com/gregerhardt)
+- [Greg Macfarlane (gregmacfarlane)](https://www.github.com/gregmacfarlane)
+- [Brian Gregor (gregorbj)](https://www.github.com/gregorbj)
+- [Jan Zill (janzill)](https://www.github.com/janzill)
+- [Joel Freedman (jfdman)](https://www.github.com/jfdman)
+- [Julie Dunbar (jkpdunbar)](https://www.github.com/jkpdunbar)
+- [Joe Flood (JoeJimFlood)](https://www.github.com/JoeJimFlood)
+- [Peiheng Li (jdlph)](https://www.github.com/jdlph)
+- [Josie Kressner (josiekre)](https://www.github.com/josiekre)
+- [Jeff Newman (jpn--)](https://www.github.com/jpn--)
+- [Krishnan Viswanathan (krishnan-viswanathan)](https://www.github.com/krishnan-viswanathan)
+- [Leta Huntsinger (leta-huntsinger)](https://www.github.com/leta-huntsinger)
+- [Lisa Zorn (lmz)](https://www.github.com/lmz)
+- [Mike Mahut (mike-mahut)](https://www.github.com/mike-mahut)
+- [Marty Milkovits (mmilkovits)](https://www.github.com/mmilkovits)
+- [Michelle Bina (mnbina)](https://www.github.com/mnbina)
+- [Rolf Moeckel (moeckel)](https://www.github.com/moeckel)
+- [Mohamed Salah Mahmoud (moh-salah)](https://www.github.com/moh-salah)
+- [Pedro Camargo (pedrocamargo)](https://www.github.com/pedrocamargo)
+- [Rachel Copperman (rcopperman)](https://www.github.com/rcopperman)
+- [Rick Donnelly (rickdonnelly)](https://www.github.com/rickdonnelly)
+- [Rosella Picado (rosellapicado)](https://www.github.com/rosellapicado)
+- [Scott Ramming (sramming)](https://www.github.com/sramming)
+- [Taehooie Kim (Taehooie)](https://www.github.com/Taehooie)
+- [Tom Rossi (tfrossi)](https://www.github.com/tfrossi)
+- [Timothy Brathwaite (timothyb0912)](https://www.github.com/timothyb0912)
+
+
+## Contributing
+
+Zephyr members are invited to contribute in two ways:
+
+1. If you’re already included on our list, go out and put GitHub stars on projects you 
+   use or like.  
+2. You can propose additions to the list of known users, either by 
+   adding yourself, or by adding respected colleagues working in our industry.  You can do 
+   so by making a 
+   [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+   on the [known-users.yml](https://github.com/ZephyrTransport/zephyr-stars/blob/master/known-users.yml) file in the
+   [Zephyr Stars repository](https://github.com/ZephyrTransport/zephyr-stars).
+   If you’re not familiar with Git, this is your opportunity 
+   to learn a bit how to use it.  For a simple repository update like this, you can do it 
+   entirely on [GitHub.com](https://www.github.com) and you don’t even need to download or 
+   install anything (although you’ll certainly want to eventually if you want to really 
+   use Git).
+
+
