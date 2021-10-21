@@ -7,4 +7,13 @@ schedules:
   always: true
 
 trigger:
-- m
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- checkout: self
+  persistCredentials: true
+
+- s
