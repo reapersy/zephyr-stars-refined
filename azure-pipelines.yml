@@ -24,4 +24,7 @@ steps:
     versionSpec: '3.8' 
     addToPath: true 
 
-- script: pip install pandas p
+- script: pip install pandas pyyaml
+  displayName: 'Install dependencies'
+
+- task: PythonScript
