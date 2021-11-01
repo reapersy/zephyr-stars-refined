@@ -34,4 +34,9 @@ steps:
     #arguments: # Optional
     #pythonInterpreter: # Optional
     #workingDirectory: # Optional
-    #failOnStd
+    #failOnStderr: false # Optional
+
+- script: cat STARS.md
+  displayName: 'Display Readme'
+
+- publish: 
