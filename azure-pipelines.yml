@@ -27,4 +27,8 @@ steps:
 - script: pip install pandas pyyaml
   displayName: 'Install dependencies'
 
-- task: PythonScript
+- task: PythonScript@0
+  inputs:
+    scriptSource: 'filePath'
+    scriptPath: 'starcounter.py'
+    #arguments: # Option
