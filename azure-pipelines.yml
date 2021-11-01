@@ -31,4 +31,7 @@ steps:
   inputs:
     scriptSource: 'filePath'
     scriptPath: 'starcounter.py'
-    #arguments: # Option
+    #arguments: # Optional
+    #pythonInterpreter: # Optional
+    #workingDirectory: # Optional
+    #failOnStd
