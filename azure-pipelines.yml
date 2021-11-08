@@ -39,4 +39,8 @@ steps:
 - script: cat STARS.md
   displayName: 'Display Readme'
 
-- publish: 
+- publish: $(System.DefaultWorkingDirectory)/STARS.md
+  artifact: STARS
+
+- script: |
+    git config -
