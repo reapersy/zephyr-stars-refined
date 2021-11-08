@@ -43,4 +43,5 @@ steps:
   artifact: STARS
 
 - script: |
-    git config -
+    git config --global user.email "info@zephyrtransport.org"
+    git config --global user.name "
