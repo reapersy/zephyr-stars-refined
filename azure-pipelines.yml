@@ -48,4 +48,6 @@ steps:
     git status
     git config --list
     git ls-files
-    git add
+    git add STARS.md
+    git commit -m "Update stars [skip ci]"
+    git push -v -
