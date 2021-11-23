@@ -50,4 +50,5 @@ steps:
     git ls-files
     git add STARS.md
     git commit -m "Update stars [skip ci]"
-    git push -v -
+    git push -v --tags origin master
+  displayName: 'Git Push'
