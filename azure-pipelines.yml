@@ -44,4 +44,8 @@ steps:
 
 - script: |
     git config --global user.email "info@zephyrtransport.org"
-    git config --global user.name "
+    git config --global user.name "Zephyr Foundation"
+    git status
+    git config --list
+    git ls-files
+    git add
