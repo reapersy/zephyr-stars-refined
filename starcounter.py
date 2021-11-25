@@ -8,4 +8,7 @@ from collections import Counter
 
 CACHE_DIR = 'cache_stars_json'
 
-os.make
+os.makedirs(CACHE_DIR, exist_ok=True)
+
+def load_known_users(filename="known-users.yml"):
+	with open(filename, 'r
