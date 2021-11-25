@@ -15,4 +15,6 @@ def load_known_users(filename="known-users.yml"):
 		known_users = yaml.safe_load(f)
 	return known_users
 
-def cache_know
+def cache_known_users(known_users):
+	for username in known_users:
+		local_f = os.path.jo
