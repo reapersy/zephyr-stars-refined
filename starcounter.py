@@ -20,4 +20,7 @@ def cache_known_users(known_users):
 		local_f = os.path.join(CACHE_DIR, f'stars.{username}.json')
 		url = f'https://api.github.com/users/{username}/starred'
 		if not os.path.exists(local_f):
-			with urllib.request.urlopen(url) 
+			with urllib.request.urlopen(url) as response:
+				html = response.read()
+				with open(local_f, 'wb') as f:
+					f.wr
