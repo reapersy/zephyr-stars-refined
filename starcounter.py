@@ -18,4 +18,6 @@ def load_known_users(filename="known-users.yml"):
 def cache_known_users(known_users):
 	for username in known_users:
 		local_f = os.path.join(CACHE_DIR, f'stars.{username}.json')
-		url = f'https://api.github.com/users/{username}/starre
+		url = f'https://api.github.com/users/{username}/starred'
+		if not os.path.exists(local_f):
+			with urllib.request.urlopen(url) 
