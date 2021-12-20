@@ -29,4 +29,6 @@ def count_stars(known_users, threshold=2):
 	stars = Counter()
 	descriptions = {}
 	for username in known_users:
-		local_f = os.path.join(CACHE_DIR, f'star
+		local_f = os.path.join(CACHE_DIR, f'stars.{username}.json')
+		if os.path.exists(local_f):
+			with open(local_f, 'rb') as
