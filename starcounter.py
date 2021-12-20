@@ -26,4 +26,7 @@ def cache_known_users(known_users):
 					f.write(html)
 
 def count_stars(known_users, threshold=2):
-	stars = Counte
+	stars = Counter()
+	descriptions = {}
+	for username in known_users:
+		local_f = os.path.join(CACHE_DIR, f'star
