@@ -34,4 +34,6 @@ def count_stars(known_users, threshold=2):
 			with open(local_f, 'rb') as f:
 				userstars = json.load(f)
 			for s in userstars:
-				stars[s.get('full_name
+				stars[s.get('full_name')] += 1
+				descriptions[s.get('full_name')] = s.get('description')
+	zephyr_stars = pandas
