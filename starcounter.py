@@ -23,4 +23,7 @@ def cache_known_users(known_users):
 			with urllib.request.urlopen(url) as response:
 				html = response.read()
 				with open(local_f, 'wb') as f:
-					f.wr
+					f.write(html)
+
+def count_stars(known_users, threshold=2):
+	stars = Counte
