@@ -36,4 +36,6 @@ def count_stars(known_users, threshold=2):
 			for s in userstars:
 				stars[s.get('full_name')] += 1
 				descriptions[s.get('full_name')] = s.get('description')
-	zephyr_stars = pandas
+	zephyr_stars = pandas.Series(stars, name='starcount')
+	zephyr_stars = zephyr_stars[zephyr_stars >= threshold]
+	ze
