@@ -38,4 +38,6 @@ def count_stars(known_users, threshold=2):
 				descriptions[s.get('full_name')] = s.get('description')
 	zephyr_stars = pandas.Series(stars, name='starcount')
 	zephyr_stars = zephyr_stars[zephyr_stars >= threshold]
-	zephyr_stars = zephyr_stars.reset_index(drop=False) # for list order st
+	zephyr_stars = zephyr_stars.reset_index(drop=False) # for list order stability
+	zephyr_stars['projectname'] = zephyr_stars['index'].str.lower()
+	zephyr_stars = ze
