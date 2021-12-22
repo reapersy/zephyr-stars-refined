@@ -40,4 +40,5 @@ def count_stars(known_users, threshold=2):
 	zephyr_stars = zephyr_stars[zephyr_stars >= threshold]
 	zephyr_stars = zephyr_stars.reset_index(drop=False) # for list order stability
 	zephyr_stars['projectname'] = zephyr_stars['index'].str.lower()
-	zephyr_stars = ze
+	zephyr_stars = zephyr_stars.sort_values(['starcount','projectname'], ascending=(False,True))
+	zephyr_stars =
