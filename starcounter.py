@@ -47,4 +47,6 @@ def count_stars(known_users, threshold=2):
 def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
 	with open(filename, 'wt') as f:
 		print(README, file=f)
-		print("## Zephyr St
+		print("## Zephyr Starred Projects", file=f)
+		for name, n in stars.items():
+			print(f"- [{name}](
