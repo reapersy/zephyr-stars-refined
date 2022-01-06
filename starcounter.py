@@ -51,4 +51,7 @@ def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
 		for name, n in stars.items():
 			print(f"- [{name}](https://www.github.com/{name}) ({n} stars)  ", file=f)
 			desc = descriptions.get(name)
-			if
+			if desc:
+				print(f"  {desc}", file=f)
+		print("\n\n## Zephyr Users", file=f)
+		print("\nThe
