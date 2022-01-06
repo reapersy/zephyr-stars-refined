@@ -44,4 +44,5 @@ def count_stars(known_users, threshold=2):
 	zephyr_stars = zephyr_stars.set_index('index').loc[:,'starcount']
 	return zephyr_stars, descriptions
 
-def 
+def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
+	with 
