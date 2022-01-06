@@ -45,4 +45,6 @@ def count_stars(known_users, threshold=2):
 	return zephyr_stars, descriptions
 
 def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
-	with 
+	with open(filename, 'wt') as f:
+		print(README, file=f)
+		print("## Zephyr St
