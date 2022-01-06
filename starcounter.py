@@ -54,4 +54,6 @@ def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
 			if desc:
 				print(f"  {desc}", file=f)
 		print("\n\n## Zephyr Users", file=f)
-		print("\nThe list of starred projects is based on these GitHub users.\n", file=
+		print("\nThe list of starred projects is based on these GitHub users.\n", file=f)
+		for username, realname in known_users.items():
+			print(f"- [{realname}
