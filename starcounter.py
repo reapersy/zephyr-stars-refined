@@ -60,3 +60,4 @@ def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
 		print(CONTRIBUTING, file=f)
 		
 		# no longer printing date, so git history isn't riddled with pointless commits.
+		# instead, the github action script will append this if there are any modifica
