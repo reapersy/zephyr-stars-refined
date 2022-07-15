@@ -67,4 +67,5 @@ README = """\
 # Zephyr Stars
 
 These projects have been "starred" multiple times by the 
-members of the [Zephyr Foundat
+members of the [Zephyr Foundation](https://zephyrtransport.org).
+Stars mean different things to different people, from
