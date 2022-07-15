@@ -64,4 +64,7 @@ def write_markdown(known_users, stars, descriptions, filename="STARS.md"):
 		# print(time.strftime("\n\nLast updated %B %d, %Y"), file=f)
 
 README = """\
-# Zephy
+# Zephyr Stars
+
+These projects have been "starred" multiple times by the 
+members of the [Zephyr Foundat
