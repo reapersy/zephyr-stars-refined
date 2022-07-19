@@ -72,4 +72,10 @@ Stars mean different things to different people, from "this is a
 useful tool for work" to "I want to be able to find this again" 
 to "my buddy made a fundraising website".  But it is expected 
 that GitHub projects high on this list (i.e. starred by a large 
-number of analytic transportation
+number of analytic transportation professionals) will tend to be 
+in the first category.  
+"""
+
+CONTRIBUTING = """
+
+## Contributing
