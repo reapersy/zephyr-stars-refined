@@ -70,4 +70,5 @@ These projects have been "starred" multiple times by the
 members of the [Zephyr Foundation](https://zephyrtransport.org).
 Stars mean different things to different people, from "this is a 
 useful tool for work" to "I want to be able to find this again" 
-to 
+to "my buddy made a fundraising website".  But it is expected 
+that GitHub projects
