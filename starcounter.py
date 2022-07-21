@@ -79,3 +79,7 @@ in the first category.
 CONTRIBUTING = """
 
 ## Contributing
+
+Zephyr members are invited to contribute in two ways:
+
+1. If you’re already included 
