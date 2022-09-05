@@ -82,4 +82,6 @@ CONTRIBUTING = """
 
 Zephyr members are invited to contribute in two ways:
 
-1. If you’re already included 
+1. If you’re already included on our list, go out and put GitHub stars on projects you 
+   use or like.  
+2. You can prop
