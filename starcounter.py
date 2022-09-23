@@ -84,4 +84,5 @@ Zephyr members are invited to contribute in two ways:
 
 1. If you’re already included on our list, go out and put GitHub stars on projects you 
    use or like.  
-2. You can prop
+2. You can propose additions to the list of known users, either by 
+   adding yourself, or by adding respected coll
