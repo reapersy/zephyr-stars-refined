@@ -87,4 +87,4 @@ Zephyr members are invited to contribute in two ways:
 2. You can propose additions to the list of known users, either by 
    adding yourself, or by adding respected colleagues working in our industry.  You can do 
    so by making a 
-   [pull request](https://docs.g
+   [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creat
