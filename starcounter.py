@@ -89,4 +89,5 @@ Zephyr members are invited to contribute in two ways:
    so by making a 
    [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
    on the [known-users.yml](https://github.com/ZephyrTransport/zephyr-stars/blob/master/known-users.yml) file in the
-   [Zephyr Stars repository](https://gith
+   [Zephyr Stars repository](https://github.com/ZephyrTransport/zephyr-stars).
+   If you’re not familiar with Git, this is your o
