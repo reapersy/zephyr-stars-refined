@@ -91,4 +91,5 @@ Zephyr members are invited to contribute in two ways:
    on the [known-users.yml](https://github.com/ZephyrTransport/zephyr-stars/blob/master/known-users.yml) file in the
    [Zephyr Stars repository](https://github.com/ZephyrTransport/zephyr-stars).
    If you’re not familiar with Git, this is your opportunity 
-   to learn a bit how to use it.  For a simple repository updat
+   to learn a bit how to use it.  For a simple repository update like this, you can do it 
+   entirely on [GitHub.com](https://www.github.com) and you don’t 
