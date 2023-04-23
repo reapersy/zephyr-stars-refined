@@ -101,4 +101,5 @@ Zephyr members are invited to contribute in two ways:
 
 HOWTO = """
 
-	This document is au
+	This document is auto-generated, do not edit it directly.  Instead,
+	edit the list of users in `known-users.
