@@ -106,4 +106,6 @@ HOWTO = """
 	`starcounter.py` Python script.
 """
 
-if __name__ == '__m
+if __name__ == '__main__':
+	known_users = load_known_users()
+	cache_known_users(known_users
