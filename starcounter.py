@@ -102,4 +102,8 @@ Zephyr members are invited to contribute in two ways:
 HOWTO = """
 
 	This document is auto-generated, do not edit it directly.  Instead,
-	edit the list of users in `known-users.
+	edit the list of users in `known-users.yml`, and then run the 
+	`starcounter.py` Python script.
+"""
+
+if __name__ == '__m
