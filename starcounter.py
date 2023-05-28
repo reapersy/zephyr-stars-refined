@@ -110,4 +110,4 @@ if __name__ == '__main__':
 	known_users = load_known_users()
 	cache_known_users(known_users)
 	stars, descriptions = count_stars(known_users)
-	write_markdown(known_users, stars, description
+	write_markdown(known_users, stars, descriptions)
